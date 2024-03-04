@@ -14,4 +14,4 @@ This mini project helps you to calculate Compound Interest by just giving the va
 
 ## Screenshots
 
-[!image](images/image.png)
+![image](images/image.png)
