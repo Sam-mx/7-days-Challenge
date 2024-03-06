@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,500&display=swap');
+
 *{
     margin: 0;
     padding: 0;
@@ -96,4 +98,14 @@ button {
         height: 700px;
         width: 90%;
     }
+}
+
+
+
+h2 {
+    text-align: center;
+    font-family: 'Lobster',cursive;
+    text-shadow: 5px 0 #232931;
+    font-size: 4rem;
+    color: #00CED1;
 }
