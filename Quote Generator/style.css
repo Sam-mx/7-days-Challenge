@@ -15,7 +15,7 @@ body{
 h1 {
     text-align: center;
     font-size: 60px;
-    color: #ffea00;
+    color: #00FFFF;
     text-shadow: 0 1px 0 #ccc,
                  0 2px 0 #c9c9c9,
                  0 3px 0 #bbb,
@@ -33,7 +33,7 @@ h1 {
 .container{
     width: 65%;
     height: 450px;
-    border: 1px solid red;
+    border: 1px solid #FF00FF;
     /* background-color: #30373b; */
     border-radius: 10px;
     display: flex;
@@ -54,7 +54,7 @@ i{
     text-align: center;
     font-size: 40px;
     font-family: 'Lobster Two', cursive;
-    color: #f20089;
+    color: azure;
 }
 
 hr{
@@ -67,7 +67,7 @@ hr{
     font-family: 'Cormorant Garamond', serif;
     font-size: 20px;
     margin-bottom: 10px;
-    color: rgb(7, 255, 7);
+    color: #E6E6FA;
 }
 
 button {
