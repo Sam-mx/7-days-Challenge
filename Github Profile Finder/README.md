@@ -13,7 +13,7 @@ By clicking on the username, it will redirect to user github profile.
 
 ## API Used
 
-[text](https://api.github.com/user/user_name)
+https://api.github.com/user/user_name
 
 ## Screenshots
 
