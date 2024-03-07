@@ -1,0 +1,17 @@
+.board button {
+    width: 100px;
+    height: 100px;
+    background-color: gray;
+    border-radius: 50%;
+    border: 4px solid black; /*this gets rid of bootstrap shadow*/
+    margin: 1px;
+  }
+
+
+  .SAM {
+    text-align: center;
+    font-family: 'Lobster',cursive;
+    text-shadow: 5px 0 #232931;
+    font-size: 4rem;
+    color: #4ECCA3;
+}
